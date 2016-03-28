@@ -1,6 +1,6 @@
 superrepo
 =========
-le yo yoyo
+yo yoyo
 
 
     O        O
